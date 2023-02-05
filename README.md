@@ -1,2 +1,2 @@
 # learnGitCommands
-Learning
+Learning git VCS is must for developers
